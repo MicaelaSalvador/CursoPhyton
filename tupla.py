@@ -1,0 +1,10 @@
+a=(1,2,3,4)
+print(a)
+print(a[3])
+print(a[0:2])
+print(4 in a)
+print(4 not in a)
+
+a=list(a)
+a.append(5)
+print(a)
